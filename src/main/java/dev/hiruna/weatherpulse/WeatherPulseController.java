@@ -134,8 +134,8 @@ public class WeatherPulseController {
     }
 
     private void updateTime() {
-        String currentTime = LocalDateTime.now().format(timeFormatter);
-        txtTime.setText(currentTime);
+        txtTime.setText(LocalDateTime.now().format(timeFormatter)); // Update the time
+        txtDate.setText(LocalDateTime.now().format(dateFormatter)); // Update the date
     }
 
     private void updateWeatherData() {
