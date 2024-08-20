@@ -82,6 +82,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ### Contact
 
-- Author: GD Hiruna
+- Author: Hiruna Gallage
 - Website: [hiruna.dev](https://hiruna.dev)
 - Email: [hello@hiruna.dev](mailto:hello@hiruna.dev)
